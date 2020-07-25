@@ -13,6 +13,7 @@
       
         
         <item>
+<<<<<<< HEAD
            <title>The Wonder of Your Eyes</title>
            <link>https://www.leepenney.com/other/the-wonder-of-your-eyes.html</link>
            <description>I seem to be stumbling over a few weird facts about our vision that makes our eyes (and the part of the brain that processes sight) even more amazing.Did you know you can&#39;t see static obj</description>
@@ -15902,24 +15903,45 @@ As I mentioned in my review, Goblet </description>
           
           
            <pubDate>2005-12-7</pubDate>
+=======
+           <title>Ensuring Your Links Work</title>
+           <link>http://rpi.local/leepenney/output/other/ensuring-your-links-work.html</link>
+           <description>They&#39;re one of the reasons for the web to exist, they&#39;re part of the net at a fundamental level and without them it would be a much harder place to visit. I&#39;m talking, of course, about links. They&#39;</description>
+          
+           <category>vfd</category>
+          
+          
+           <pubDate>2020-07-13</pubDate>
+>>>>>>> 1c416f9b25a07a19e9fec97bc4ddb9320eb4fde1
 
         </item>
         
         <item>
+<<<<<<< HEAD
            <title>The Story behind Newspapers on TV</title>
            <link>https://www.leepenney.com/film/the-story-behind-newspapers-on-tv.html</link>
            <description>Kottke has an interesting article on newspapers used in TV shows, due to clearance time and costs they use fake ones sup</description>
           
            <category>Film</category>
+=======
+           <title>Goodwood Festival of Speed</title>
+           <link>http://rpi.local/leepenney/output/other/goodwood-festival-of-speed.html</link>
+           <description>I was lucky enough to attend this year&#39;s Festival of Speed at Goodwood. I thought I would share my advice having been there.&lt;img class=&quot;aligncenter size-full wp-image-1987&quot; src=&quot;file://V:/l</description>
+>>>>>>> 1c416f9b25a07a19e9fec97bc4ddb9320eb4fde1
           
            <category>tdp</category>
           
           
+<<<<<<< HEAD
            <pubDate>2010-06-9</pubDate>
+=======
+           <pubDate>2020-07-13</pubDate>
+>>>>>>> 1c416f9b25a07a19e9fec97bc4ddb9320eb4fde1
 
         </item>
         
         <item>
+<<<<<<< HEAD
            <title>Taking Down the Auteur Theory</title>
            <link>https://www.leepenney.com/film/taking-down-the-auteur-theory.html</link>
            <description>The auteur theory comes from Film Studies (although it can be applied to any creative work).
@@ -15930,10 +15952,16 @@ Digging out my copy of Pam Cook’s The Cinema Book it suggests that the theory 
            <category>Film</category>
           
            <category>film criticism</category>
+=======
+           <title>Creating Cards with Primitive</title>
+           <link>http://rpi.local/leepenney/output/other/creating-cards-with-primitive.html</link>
+           <description>I&#39;m a bit of a scrooge when it comes to Christmas cards, well cards in general to be honest. They&#39;re nice enough but you open them, prop them up for a while and then throw them out. As such I don&#39;t</description>
+>>>>>>> 1c416f9b25a07a19e9fec97bc4ddb9320eb4fde1
           
            <category>tdp</category>
           
           
+<<<<<<< HEAD
            <pubDate>2017-04-1</pubDate>
 
         </item>
@@ -16050,10 +16078,14 @@ Every time I see Mad Max I remember a similar movie I remember watching way back
           
           
            <pubDate>2009-10-10</pubDate>
+=======
+           <pubDate>2020-07-13</pubDate>
+>>>>>>> 1c416f9b25a07a19e9fec97bc4ddb9320eb4fde1
 
         </item>
         
         <item>
+<<<<<<< HEAD
            <title>Why DVD Still Reigns Supreme</title>
            <link>https://www.leepenney.com/film/why-dvd-still-reigns-supreme.html</link>
            <description>Originally published October 2009 on the now-defunct ascreennearyou.co.uk
@@ -16067,11 +16099,22 @@ I’ve been meaning to write a post about why I think DVD still outsells any oth
           
           
            <pubDate>2009-10-10</pubDate>
+=======
+           <title>Automation with IFTTT</title>
+           <link>http://rpi.local/leepenney/output/other/automation-with-ifttt.html</link>
+           <description>I have a few power sockets that can be switched wirelessly, mainly Energenie devices triggered by my Raspberry Pi. I&#39;ve had a web interface for ages, and some automation around things like sunrise/</description>
+          
+           <category>vfd</category>
+          
+          
+           <pubDate>2020-07-13</pubDate>
+>>>>>>> 1c416f9b25a07a19e9fec97bc4ddb9320eb4fde1
 
         </item>
         
       
         
+<<<<<<< HEAD
         <item>
            <title>How To Shave Like Your Grandpa from The Art of Manliness</title>
            <link>https://www.leepenney.com/shaving/how-to-shave-like-your-grandpa-from-the-art-of-manliness.html</link>
@@ -16167,6 +16210,22 @@ I’ve been meaning to write a post about why I think DVD still outsells any oth
           
           
            <pubDate>2014-02-2</pubDate>
+=======
+      
+        
+        <item>
+           <title>Book Test</title>
+           <link>http://rpi.local/leepenney/output/books/book-test.html</link>
+           <description>
+
+Buy from
+&lt;a href=</description>
+          
+           <category>book</category>
+          
+          
+           <pubDate>2020-07-12</pubDate>
+>>>>>>> 1c416f9b25a07a19e9fec97bc4ddb9320eb4fde1
 
         </item>
         
