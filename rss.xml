@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+   <channel>
+      <title>Lee Penney</title>
+      <link>test</link>
+      <description>Welcome to Lee Penney&#39;s home on the web</description>
+      
+      <language>en-gb</language>
+      
+      <pubDate>2020-07-25</pubDate>
+      <lastBuildDate>2020-07-25</lastBuildDate>
+      
+      
+        
+        <item>
+           <title>Ensuring Your Links Work</title>
+           <link>http://rpi.local/leepenney/output/other/ensuring-your-links-work.html</link>
+           <description>They&#39;re one of the reasons for the web to exist, they&#39;re part of the net at a fundamental level and without them it would be a much harder place to visit. I&#39;m talking, of course, about links. They&#39;</description>
+          
+           <category>vfd</category>
+          
+          
+           <pubDate>2020-07-13</pubDate>
+
+        </item>
+        
+        <item>
+           <title>Goodwood Festival of Speed</title>
+           <link>http://rpi.local/leepenney/output/other/goodwood-festival-of-speed.html</link>
+           <description>I was lucky enough to attend this year&#39;s Festival of Speed at Goodwood. I thought I would share my advice having been there.&lt;img class=&quot;aligncenter size-full wp-image-1987&quot; src=&quot;file://V:/l</description>
+          
+           <category>tdp</category>
+          
+          
+           <pubDate>2020-07-13</pubDate>
+
+        </item>
+        
+        <item>
+           <title>Creating Cards with Primitive</title>
+           <link>http://rpi.local/leepenney/output/other/creating-cards-with-primitive.html</link>
+           <description>I&#39;m a bit of a scrooge when it comes to Christmas cards, well cards in general to be honest. They&#39;re nice enough but you open them, prop them up for a while and then throw them out. As such I don&#39;t</description>
+          
+           <category>tdp</category>
+          
+          
+           <pubDate>2020-07-13</pubDate>
+
+        </item>
+        
+        <item>
+           <title>Automation with IFTTT</title>
+           <link>http://rpi.local/leepenney/output/other/automation-with-ifttt.html</link>
+           <description>I have a few power sockets that can be switched wirelessly, mainly Energenie devices triggered by my Raspberry Pi. I&#39;ve had a web interface for ages, and some automation around things like sunrise/</description>
+          
+           <category>vfd</category>
+          
+          
+           <pubDate>2020-07-13</pubDate>
+
+        </item>
+        
+      
+        
+      
+        
+        <item>
+           <title>Book Test</title>
+           <link>http://rpi.local/leepenney/output/books/book-test.html</link>
+           <description>
+
+Buy from
+&lt;a href=</description>
+          
+           <category>book</category>
+          
+          
+           <pubDate>2020-07-12</pubDate>
+
+        </item>
+        
+      
+
+   </channel>
+</rss>
