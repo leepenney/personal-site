@@ -7,8 +7,8 @@
       
       <language>en-gb</language>
       
-      <pubDate>2023-07-28</pubDate>
-      <lastBuildDate>2023-07-28</lastBuildDate>
+      <pubDate>2023-12-7</pubDate>
+      <lastBuildDate>2023-12-7</lastBuildDate>
       
       
         
@@ -15751,6 +15751,19 @@ I don&#39;t understand th</description>
           
           
            <pubDate>2023-07-22</pubDate>
+
+        </item>
+        
+        <item>
+           <title>Avoiding headaches with Go, Docker and fly.io</title>
+           <link>https://www.leepenney.com/tech/avoiding-headaches-with-go-docker-and-flyio.html</link>
+           <description>I&#39;m putting this here mainly to remind myself in future, but also in case it pops up in a search conducted by a soul as perplexed as I was before it finally clicked.
+I&#39;m new to Go and I took</description>
+          
+           <category>tech</category>
+          
+          
+           <pubDate>2023-12-6</pubDate>
 
         </item>
         
